@@ -57,7 +57,10 @@ typings/
 # dotenv environment variables file
 .env
 
-#Emacs temporary files:
+# Emacs temporary files:
 *~
 [#]*[#]
 .\#*
+
+# Jet Brains IDE's
+.idea
