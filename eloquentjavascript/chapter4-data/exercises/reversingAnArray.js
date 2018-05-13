@@ -7,21 +7,14 @@ function reverseArray (array) {
 }
 
 function reverseArrayInPlace (array) {
-  let i = 0
-  let j = array.length - 1
-  let temp = 0
-  while (i < j) {
-    temp = array[j]
-    array[i] = temp
-    i += 1
-    j -= 1
+  let len = array.length
+  let halflen = Math.floor(len / 2)
+  for (let i = 0; i < halflen; i++) {
+    let temp = array[i]
+    array[i] = array[len - 1 - i]
+    array[len - 1 - i] = temp
   }
 }
-
-function isEven (n) {
-  return !(n & 1)
-}
-console.log(isEven(0))
 
 console.log(reverseArray(['A', 'B', 'C']))
 // → ["C", "B", "A"]
