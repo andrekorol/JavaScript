@@ -64,7 +64,10 @@ typings/
 
 # Jet Brains IDE's
 .idea
+<<<<<<< HEAD
 
 package.json
 package-lock.json
 
+=======
+>>>>>>> 1ad877fb5f8341f215e9de7ef9bddf103d8166eb
