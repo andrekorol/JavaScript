@@ -25,7 +25,9 @@ function arrayToList (array) {
 
 let lista = arrayToList([1, 2, 3])
 for (let property in lista) {
-  if ()
+  if (lista.hasOwnProperty(property) && property === 'value') {
+    console.log(lista['value'])
+  }
 }
 // console.log(arrayToList([10, 20]))
 // console.log(arrayToList([1, 2, 3]))
