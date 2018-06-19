@@ -16,19 +16,42 @@ function arrayToList (array) {
   return head
 }
 
-// function listToArray (list) {
-//   let array = []
-//   for (let element of list) {
-//     console.log(element)
-//   }
-// }
+function listToArray (list) {
+  let array = []
+  let restOfList = list
+  while (restOfList !== null) {
+    for (let key in restOfList) {
+      if (key === 'value') {
+        array.push(restOfList[key])
+      } else if (key === 'rest') {
+        restOfList = restOfList[key]
+      }
+    }
+  }
+  return array
+}
 
-let lista = arrayToList([1, 2, 3])
-for (let property in lista) {
-  if (lista.hasOwnProperty(property) && property === 'value') {
-    console.log(lista['value'])
+function prepend (element, list) {
+  let array = listToArray(list)
+  array.unshift(element)
+  return arrayToList(array)
+}
+
+function nth (list, number) {
+  let array = listToArray(list)
+  return array[number]
+}
+
+function recursiveNth (list, number) {
+  if (number === 0) {
+    return list.value
+  } else {
+    return recursiveNth(list.rest, number - 1)
   }
 }
-// console.log(arrayToList([10, 20]))
-// console.log(arrayToList([1, 2, 3]))
-// console.log(listToArray(arrayToList([1, 2, 3])))
+
+console.log(arrayToList([10, 20]))
+console.log(listToArray(arrayToList([10, 20, 30])))
+console.log(prepend(10, prepend(20, null)))
+console.log(nth(arrayToList([10, 20, 30]), 1))
+console.log(recursiveNth(arrayToList([10, 20, 30]), 1))
