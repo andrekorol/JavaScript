@@ -1,15 +1,15 @@
 {
   "dependencies": {
-    "eslint": "^4.18.2",
+    "eslint": "^7.0.0",
     "eslint-config-defaults": "^9.0.0",
-    "gpu.js": "^1.2.0",
-    "typescript": "^2.7.2"
+    "gpu.js": "^2.9.4",
+    "typescript": "^3.8.3"
   },
   "devDependencies": {
-    "eslint-config-standard": "^11.0.0",
-    "eslint-plugin-import": "^2.9.0",
-    "eslint-plugin-node": "^6.0.1",
-    "eslint-plugin-promise": "^3.7.0",
-    "eslint-plugin-standard": "^3.0.1"
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
   }
 }
