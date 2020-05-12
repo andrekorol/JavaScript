@@ -1,0 +1,12 @@
+{
+    "extends": [
+        "wesbos"
+    ],
+    "rules": {
+        "no-plusplus": [
+            "error", {
+                "allowForLoopAfterthoughts": true
+            }
+        ]
+    }
+}
